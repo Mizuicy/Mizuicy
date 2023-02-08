@@ -23,13 +23,13 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Mizuicy/count.svg" />
-  </p>
-  
   </br>
 
   <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anamioto&theme=radical&show_icons=true"></a>
+  </p>
+  
+  <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Mizuicy/count.svg" />
   </p>
