@@ -1,4 +1,4 @@
-### Olá eu sou a Mizuicy 👋
+### Olá eu sou o Mizuicy 👋
 
 
 
