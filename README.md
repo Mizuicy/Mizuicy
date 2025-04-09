@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Harry-Hopkinson/harry-hopkinson/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
